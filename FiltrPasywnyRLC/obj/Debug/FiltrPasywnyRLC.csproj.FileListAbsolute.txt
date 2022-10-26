@@ -1,0 +1,181 @@
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.Cache
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\Andrzej Wilk\Documents\Visual Studio 2015\Projects\DYDAKTYKA\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\App.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\App.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\About.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC02\FiltrPasywnyRLC\obj\Debug\About.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\About.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\App.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\About.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC03\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+D:\VISUAL_STUDIO_PROJECTS\DYDAKTYKA\WPFProjects\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\Wilk_enauczanie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Politechnika\magisterka\3sem\PAI\_Zaliczenie\Zaliczenie\Joanna Psuty\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\bin\Debug\FiltrPasywnyRLC.pdb
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\App.g.cs
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC_MarkupCompile.lref
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\About.baml
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\MainWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\ParamWindow.baml
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.g.resources
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.exe
+C:\Users\psuty\OneDrive\Pulpit\Github\FiltrPasywnyRLC04\FiltrPasywnyRLC\obj\Debug\FiltrPasywnyRLC.pdb

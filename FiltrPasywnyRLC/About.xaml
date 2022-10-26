@@ -1,0 +1,22 @@
+﻿<Window x:Class="FiltrPasywnyRLC.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FiltrPasywnyRLC"
+        mc:Ignorable="d"
+        Title="About 2RLC Filter" Height="160" Width="300"
+        ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Author: Name Surname" HorizontalAlignment="Center"
+               Margin="0,10,0,0" Name="version" VerticalAlignment="Top"></Label>
+        <Label Content="Students ID: ABCDEFG" HorizontalAlignment="Center"
+               Margin="0,30,0,0" Name="studentId" VerticalAlignment="Top"></Label>
+        <Label Content="Build date: June 2022" Height="28"
+               HorizontalAlignment="Center" Margin="0,50,0,0" Name="buildDate"
+               VerticalAlignment="Top"></Label>
+        <Button Name="btnOK" Content="OK" Height="26" HorizontalAlignment="Center"
+                Margin="0,90,0,0" VerticalAlignment="Top" Width="100" Click="btnOK_Click">
+        </Button>
+    </Grid>
+</Window>
